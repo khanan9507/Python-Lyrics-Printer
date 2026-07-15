@@ -14,25 +14,7 @@ A simple Python CLI script that displays song lyrics in the terminal with a **ty
 - **Language:** Python 3
 - **Libraries used:** `sys`, `time`, `os`
 
-## 🚀 How to Run
 
-1. Clone this repository
-   ```bash
-   git clone https://github.com/khanan9507/Python-Lyrics-Printer.git
-   ```
-2. Navigate to the project folder
-   ```bash
-   cd Python-Lyrics-Printer
-   ```
-3. Run the script
-   ```bash
-   python lyrics_printer.py
-   ```
-
-> **Note (Windows users):** If you get a `UnicodeEncodeError` due to emojis, run this first:
-> ```bash
-> chcp 65001
-> ```
 
 ## 📚 What I Learned
 
